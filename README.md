@@ -1,11 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Volkovich Alex</h1>
 <h3 align="center">Passionate student from Moldova who moved to study in Russia</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volkoviysash&label=Profile%20views&color=0e75b6&style=flat" alt="volkoviysash" /> </p>
 
-- 🔭 I'm currently studying **CS50**
+<p align="left"> <a href="https://twitter.com/tankerwolf" target="blank"><img src="https://img.shields.io/twitter/follow/tankerwolf?logo=twitter&style=for-the-badge" alt="tankerwolf" /></a> </p>
+
+- 🔭 I'm currently studying programminf with **CS50**
 
 - 🌱 I’m currently learning **C#**
 
@@ -28,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volkoviysash&show_icons=true&locale=en&layout=compact" alt="volkoviysash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volkoviysash&show_icons=true&locale=en" alt="volkoviysash" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volkoviysash&" alt="volkoviysash" /></p>
