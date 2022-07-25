@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tankerwolf" target="blank"><img src="https://img.shields.io/twitter/follow/tankerwolf?logo=twitter&style=for-the-badge" alt="tankerwolf" /></a> </p>
 
-- 🔭 I'm currently studying programminf with **CS50**
+- 🔭 I'm currently studying programming with **CS50**
 
 - 🌱 I’m currently learning **C#**
 
