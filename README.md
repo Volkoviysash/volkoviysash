@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **volkoviysash@gmail.com**
 
-- ⚡ Fun fact **Don't work hard, work smart**
+- ⚡ **Don't work hard, work smart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
