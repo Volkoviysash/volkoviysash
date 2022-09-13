@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Python, C#, C, C++**
 
+- 🔭 My codewars profile https://www.codewars.com/users/Volkoviysash
+
 - 📫 How to reach me **volkoviysash@gmail.com**
 
 - ⚡ **Don't work hard, work smart!**
