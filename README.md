@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Python, C#, C, C++**
+- 💬 Ask me about **Python, C#, C, C++, HTML, CSS, JS**
 
 - 🏋🏾 My codewars profile https://www.codewars.com/users/Volkoviysash
 
