@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 💬 Ask me about **Python, C#, C, C++, HTML, CSS, JS**
+- 💬 Ask me about **Python, C#, C, HTML, CSS, JS**
 
 - 🏋🏾 My codewars profile https://www.codewars.com/users/Volkoviysash
 
