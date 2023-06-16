@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Volkovich Alexandr!.</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I'm currently studying programming with **CS50**
+- 🔭 I began my journey with the Harvard **CS50** course
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently working with **JS**
 
-- 💬 Ask me about **Python, C#, C, HTML, CSS, JS**
+- 💬 Ask me about **React, Redux** JS, Python, HTML, CSS, C#, C
 
 - 🏋🏾 My codewars profile https://www.codewars.com/users/Volkoviysash
 
