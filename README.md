@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **volkoviysash@gmail.com**
 
+- 📫 <a href='www.linkedin.com/in/alexandr-volcovici' target='_blanc'>My linkedin account</a>
+
 - 📄 <a href='https://drive.google.com/file/d/140G3nlCixDND44pPDa7_3LzI0BFD0nsP/view' target='_blanc'>My resume </a>
 
 - ⚡ **Don't work hard, work smart!**
